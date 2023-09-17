@@ -1,0 +1,7 @@
+C:\Users\Aluno\source\repos\restaurante\restaurante\bin\Debug\restaurante.exe.config
+C:\Users\Aluno\source\repos\restaurante\restaurante\bin\Debug\restaurante.exe
+C:\Users\Aluno\source\repos\restaurante\restaurante\bin\Debug\restaurante.pdb
+C:\Users\Aluno\source\repos\restaurante\restaurante\obj\Debug\restaurante.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\restaurante\restaurante\obj\Debug\restaurante.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\restaurante\restaurante\obj\Debug\restaurante.exe
+C:\Users\Aluno\source\repos\restaurante\restaurante\obj\Debug\restaurante.pdb
